@@ -2,3 +2,8 @@ streamlit
 dotenv
 google.generativeai
 torch
+clip
+PIL
+numpy
+io
+requests
