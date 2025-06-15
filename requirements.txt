@@ -1,3 +1,4 @@
 streamlit
 dotenv
 google.generativeai
+torch
